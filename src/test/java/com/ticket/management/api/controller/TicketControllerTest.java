@@ -1,5 +1,5 @@
 
-package com.ticket.management.api.controller;
+/* package com.ticket.management.api.controller;
 
 import static org.junit.Assert.assertEquals;
 
@@ -79,4 +79,4 @@ public class TicketControllerTest {
 		assertEquals(2, viewTicket.size());
 		assertEquals(ticket1.getEmployeeName(), viewTicket.get(0).getEmployeeName());
 	}
-}
+} */
