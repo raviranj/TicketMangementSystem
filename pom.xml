@@ -13,7 +13,6 @@
 	<artifactId>ticket-tracking-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Ticket-Tracking-System</name>
-	<packaging>war</packaging>
 	<description>Project for ticket tracking application </description>
 
 	<properties>
